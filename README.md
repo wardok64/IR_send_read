@@ -16,7 +16,7 @@
   - Tres botones pulsadores.
   - Diodo led rojo.
 
-### Diagrama (reader/sensder):
+### Diagrama (reader/sender):
 
 ![Screenshot from 2022-09-19 11-51-22](https://user-images.githubusercontent.com/104173190/191073329-d247abd3-1da9-4f2f-b967-b69d80aa16a5.png)
 
